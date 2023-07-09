@@ -1,4 +1,4 @@
-# Project Title: Sentiment Analysis with PySpark
+# Twitter Sentiment Analysis with PySpark
 
 
 **Project Description:** In this project, you will perform sentiment analysis on Instagram data using PySpark. The goal is to analyze the sentiments expressed in Instagram (or other Social Mediums) posts or comments and gain insights into the overall sentiment towards different topics, brands, or events.

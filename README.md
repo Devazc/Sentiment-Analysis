@@ -1,9 +1,9 @@
-# Twitter Sentiment Analysis with PySpark
+# Sentiment Analysis with PySpark
 
 
-**Project Description:** In this project, you will perform sentiment analysis on Instagram data using PySpark. The goal is to analyze the sentiments expressed in Instagram (or other Social Mediums) posts or comments and gain insights into the overall sentiment towards different topics, brands, or events.
+**Project Description:** In this project, you will perform sentiment analysis on Instagram/Twitter data using PySpark. The goal is to analyze the sentiments expressed in Instagram (or other Social Mediums) posts or comments and gain insights into the overall sentiment towards different topics, brands, or events.
 
-## Step-by-Step Guide:
+## The Approach:
 
 ### Data Collection:
 
@@ -52,5 +52,6 @@
 - BeautifulSoup: [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Selenium: [https://www.selenium.dev/](https://www.selenium.dev/)
 - PySpark documentation: [https://spark.apache.org/docs/latest/api/python/](https://spark.apache.org/docs/latest/api/python/)
+- Twitter Sentiment Analysis: [https://github.com/Wazzabeee/twitter-sentiment-analysis-pyspark](https://github.com/Wazzabeee/twitter-sentiment-analysis-pyspark)
 - VADER sentiment analysis: [https://github.com/cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment)
 
